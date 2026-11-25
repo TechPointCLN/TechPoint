@@ -87,7 +87,7 @@ TechPoint/
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/EdgarLeonArchuleta19/TechPoint.git
+git clone https://github.com/TechPointCLN/TechPoint.git
 cd TechPoint
 ```
 
